@@ -23,3 +23,25 @@
 - **short**: Модель для оценки коротковолновой радиации
 
 Вы можете найти предварительно обученные модели в соответствующих файлах. Также предоставляются файлы с кодом для обучения данных моделей.
+
+## Участники проекта
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 20px;">
+
+  <div style="text-align: center; padding: 15px; background: #f5f5f5; border-radius: 10px; transition: transform 0.3s;">
+    <a href="https://github.com/voldisoriginal" style="text-decoration: none; color: #333;">
+      <img src="https://avatars.githubusercontent.com/u/159686633?v=4" width="100" style="border-radius: 50%; border: 3px solid #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+      <br>
+      <span style="display: block; margin-top: 10px; font-weight: 600;">Voldisoriginal</span>
+    </a>
+  </div>
+
+  <div style="text-align: center; padding: 15px; background: #f5f5f5; border-radius: 10px; transition: transform 0.3s;">
+    <a href="https://github.com/Kartel7" style="text-decoration: none; color: #333;">
+      <img src="https://avatars.githubusercontent.com/u/39780240?v=4" width="100" style="border-radius: 50%; border: 3px solid #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+      <br>
+      <span style="display: block; margin-top: 10px; font-weight: 600;">Kartel7</span>
+    </a>
+  </div>
+
+</div>
